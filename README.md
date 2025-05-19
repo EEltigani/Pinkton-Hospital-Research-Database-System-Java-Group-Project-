@@ -1,4 +1,3 @@
-# Pinkton-Hospital-Research-Database-System-Java-Group-Project-
 # 🏥 Pinkton Hospital Research Database System
 
 This is a Java-based database management system developed as part of a university group project for the **Information Systems and Databases (CP0054E)** module at the University of West London.
